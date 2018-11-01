@@ -6,6 +6,7 @@ Just move across country, or trying to expand your inner circle of friends? Frie
 # Technologies Used
 * JavaScript
 * jQuery
+* JSON
 * node.js
 * express.js
 * HTML
