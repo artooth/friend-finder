@@ -1,5 +1,5 @@
 # Friend Finder
-Just move across country, or trying to expand your inner circle of friends? Friend Finder can help with that! After taking a quick survey, Friend Finder will match you with friend with a similar score to you!
+Just move across country and looking for some one new, or trying to expand your inner circle of friends? Friend Finder can help with that! After taking a quick survey, Friend Finder will match you with friend with a similar score to you!
 
 
 
