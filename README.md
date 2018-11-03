@@ -13,4 +13,4 @@ Just move across country and looking for some one new, or trying to expand your 
 * Bootstrap
 
 # Author
-Alexnadria R. Toothman 
+Alexandria R. Toothman 

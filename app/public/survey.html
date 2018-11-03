@@ -1,4 +1,4 @@
-<!Doctype <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -177,7 +177,7 @@
                 </div>
                 <div class="modal-body">
                     <h2 id="modal-person-name"></h2>
-                    <img class="mh-100 img-responsive" style="width:100%" id="modal-img" src="" alt="">
+                    <img class="mh-100 img-responsive" style="width:100%" id="modal-img" src="#" alt="">
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -214,7 +214,7 @@
             console.log("user data: ", userData)
 
             // AJAX post the data to friends
-            $.post("/api/new", userData, (data) => {
+            $.post("/api/friends", userData, (data) => {
                 $("#modal-person-name").text(data.name);
                 $("#modal-img").attr("src", data.photo);
                 $("#results-modal").modal("toggle");
